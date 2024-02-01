@@ -1,0 +1,23 @@
+2024-01-31 07:17:44.358 [info] 
+
+
+
+
+2024-01-31 07:17:44.358 [info] Extension host agent started.
+2024-01-31 07:17:44.377 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mageshmaxhunt/.codeoss/extensions
+2024-01-31 07:17:44.389 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mageshmaxhunt/.codeoss/extensions
+2024-01-31 07:17:49.702 [info] [127.0.0.1][f74eb5a4][ManagementConnection] New connection established.
+2024-01-31 07:17:49.718 [info] [127.0.0.1][7825ddcf][ExtensionHostConnection] New connection established.
+2024-01-31 07:17:50.776 [info] [127.0.0.1][7825ddcf][ExtensionHostConnection] <1117> Launched Extension Host Process.
+2024-01-31 07:39:28.209 [info] [127.0.0.1][f74eb5a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-31 07:39:28.256 [info] [127.0.0.1][7825ddcf][ExtensionHostConnection] <1117> Extension Host Process exited with code: 0, signal: null.
+2024-01-31 07:39:33.682 [info] [127.0.0.1][3596e5b5][ExtensionHostConnection] New connection established.
+2024-01-31 07:39:33.683 [info] [127.0.0.1][813056db][ManagementConnection] New connection established.
+2024-01-31 07:39:33.742 [info] [127.0.0.1][3596e5b5][ExtensionHostConnection] <1235> Launched Extension Host Process.
+2024-01-31 08:44:34.180 [info] [127.0.0.1][813056db][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-31 08:44:34.218 [info] [127.0.0.1][3596e5b5][ExtensionHostConnection] <1235> Extension Host Process exited with code: 0, signal: null.
+2024-01-31 08:44:40.041 [info] [127.0.0.1][1a98071e][ManagementConnection] New connection established.
+2024-01-31 08:44:40.042 [info] [127.0.0.1][0013781b][ExtensionHostConnection] New connection established.
+2024-01-31 08:44:40.051 [info] [127.0.0.1][0013781b][ExtensionHostConnection] <1794> Launched Extension Host Process.
+2024-01-31 08:52:12.363 [info] [127.0.0.1][1a98071e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-31 08:52:12.408 [info] [127.0.0.1][0013781b][ExtensionHostConnection] <1794> Extension Host Process exited with code: 0, signal: null.
