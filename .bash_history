@@ -217,3 +217,14 @@ git push dev main
 git branch
 git checkout -b main
 git branch
+git add .
+git commit -m "test1"
+git branch -u origin/main main
+git branch -u dev/main main
+git push dev main
+git remote -v
+git remote delete dev
+git remote remove dev
+git remote add origin https://github.com/iammageshs/test-repo.git
+git remote -v
+git status
