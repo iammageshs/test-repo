@@ -198,3 +198,22 @@ git push dev main
 git clone https://github.com/iammageshs/test-repo.git
 git ls
 git status
+git add .
+git commit -m "test"
+git pull
+git push
+git push main
+git push dev main
+git push --set-upstream main test
+git push --set-upstream main
+git push --set-upstream main dev
+git push main
+git push --set-upstream main test
+git branch
+git push --set-upstream test main
+git status
+git log
+git push dev main
+git branch
+git checkout -b main
+git branch
